@@ -1,0 +1,7 @@
+D:\C#\9.3.1\9.3.1\bin\Debug\9.3.1.exe.config
+D:\C#\9.3.1\9.3.1\bin\Debug\9.3.1.exe
+D:\C#\9.3.1\9.3.1\bin\Debug\9.3.1.pdb
+D:\C#\9.3.1\9.3.1\obj\Debug\9.3.1.csprojAssemblyReference.cache
+D:\C#\9.3.1\9.3.1\obj\Debug\9.3.1.csproj.CoreCompileInputs.cache
+D:\C#\9.3.1\9.3.1\obj\Debug\9.3.1.exe
+D:\C#\9.3.1\9.3.1\obj\Debug\9.3.1.pdb
